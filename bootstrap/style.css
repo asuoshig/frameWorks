@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+div.carouselExampleCaption{
+    width:200px;
+    height:200px;
+    border:2px solid black;
+    padding:10px;
+    visibility: hidden;
+    
+}
