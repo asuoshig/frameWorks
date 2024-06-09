@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; 
+    /* background-image: url(https://www.bing.com/images/search?view=detailV2&ccid=4GTqZI0q&id=5B14ED4DB14075781A0F8D2212044CE4742B48E6&thid=OIP.4GTqZI0qhs7HWLYkSByWDAHaD9&mediaurl=https%3a%2f%2fcdn-pt.checklistfacil.com%2fchecklistfacil-6-melhores-praticas-para-realizar-uma-gestao-de-estoque-na-industria.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e064ea648d2a86cec758b624481c960c%3frik%3d5kgrdORMBBIijQ%26pid%3dImgRaw%26r%3d0&exph=1069&expw=1995&q=imagens+de+estoque&simid=607993909046938357&FORM=IRPRST&ck=DC73A09C63C013B6AFCE0F91C425361A&selectedIndex=29&itb=0);
+     */
+     background-color: #363636;
+  }
+  
+  .cadastro {
+    max-width: 1500px; /* Define uma largura máxima para o formulário */
+    padding: 20px; /* Adiciona um espaçamento interno */
+    border: 10px solid #363636; /* Adiciona uma borda para destacar o formulário */
+    border-radius: 10px; /* Adiciona uma borda arredondada */
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+ 

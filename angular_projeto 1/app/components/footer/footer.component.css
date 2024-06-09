@@ -1,0 +1,87 @@
+.footer {
+    background: #303036;
+    color: #d3d3d3;
+    height: auto;
+    width: 100%;
+    position: flex;
+    bottom: 0;
+    left: 0;
+}
+
+.footer .footer-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 40px 30px;
+}
+
+.footer .footer-content .footer-section {
+    flex: 1;
+    padding: 10px;
+}
+
+.footer .footer-content .about .logo-text {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.footer .footer-content .about .contact span {
+    display: block;
+    margin: 10px 0;
+}
+
+.footer .footer-content .about .socials a {
+    text-decoration: none;
+    color: #d3d3d3;
+    padding: 10px;
+    margin-right: 5px;
+}
+
+.footer .footer-content .links ul a {
+    text-decoration: none;
+    color: #d3d3d3;
+    display: block;
+    margin: 10px 0;
+    transition: 0.3s;
+}
+
+.footer .footer-content .links ul a:hover {
+    color: #fff;
+    padding-left: 10px;
+}
+
+.footer .footer-content .contact-form .text-input {
+    background: #1a1a1a;
+    border: none;
+    margin-bottom: 10px;
+    line-height: 1.5rem;
+    padding: 10px;
+    color: #d3d3d3;
+    width: calc(100% - 20px);
+}
+
+.footer .footer-content .contact-form .btn {
+    background: #ff6200;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.footer .footer-content .contact-form .btn:hover {
+    background: #e55b00;
+}
+
+.footer .footer-bottom {
+    background: #282828;
+    color: #686868;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    line-height: 50px;
+    position: flex;
+    bottom: 0;
+    left: 0;
+}
